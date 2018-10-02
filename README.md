@@ -94,6 +94,24 @@ moderate adaptation is often better than major adaptation. Ultimately the succes
 of each other rather than style. 
     
 ### 1.6 Resolve ethical issues in negotiations
+
+**Law-based Ethical Standards**:
+- **Fraud** - false representation of a material fact that is relied on by the other side
+  - Example: if during negotiation you lied to the other side about your reservation price, it's not a fraud, because
+  this is not relied on by the other side.
+- **Fiduciary Duty** - a high duty of trust and loyalty. 
+An an employee you owe the duty of trust and loyalty to your employer. E.g. as an agent for making a deal for
+a company you can't accept a finders fee from the other company. 
+- **Unconscionability** - violates principles of good conscience.  It is a doctrine in contract law that describes 
+terms that are so extremely unjust, or overwhelmingly one-sided in favor of the party who has the superior bargaining 
+power, that they are contrary to good conscience. Typically, an unconscionable contract is held to be unenforceable 
+because no reasonable or informed person would otherwise agree to it.
+
+**General Ethical Standards**
+- **Organization standards** - companies can have standards guiding the decisions in certain situations. 
+- **Mentor** - what would someone you admire do in the situation.
+- **Personal standards**: Gut test, Family and Newspaper (ask yourself if you would be embarassed to have your family 
+members learn about your actions), Golder Rule (treat others as you want to be treated).  
     
 ### 1.7 Decide if you should use an agent in a negotiation
 
