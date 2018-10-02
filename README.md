@@ -76,16 +76,49 @@ agreement.
 **Expected price** - most likely price. 
 
 **Best Alternative To a Negotiated Agreement (BATNA)** - the most advantageous alternative course of action a party 
-can take if negotiations fail and an agreement cannot be reached.
+can take if negotiations fail and an agreement cannot be reached. In dispute resolution BATNA is often 
+litigation or arbitration. 
 
 **Zone Of Potential Agreement (ZOPA)** - where the deal can take place, 
 the range between reservation prices of the counterparties. 
     
 ### 1.5 Conduct cross-cultural negotiations
+
+- **Surface culture** - negotiation style. **Deep culture** - underlying values and beliefs.
+
+- Be sensitive to culture but don't stereotype. 
+
+- Should you adapt the culture of the other side? There are a few problems with adaptation: 
+(1) both sides might modify behaviour, (2) you don't fully understand the local culture. **Therefore**: 
+moderate adaptation is often better than major adaptation. Ultimately the success of negotiation **depends on respect**
+of each other rather than style. 
     
 ### 1.6 Resolve ethical issues in negotiations
     
 ### 1.7 Decide if you should use an agent in a negotiation
+
+
+## Distinctive features of US litigation system
+
+**[Contingency Fee](https://en.wikipedia.org/wiki/Contingent_fee)** - fee charged for a lawyer's services only if the 
+lawsuit is successful or is favorably 
+settled out of court. Contingency fees are usually calculated as a percentage of the client's net recovery.
+
+**[Class Actions](https://en.wikipedia.org/wiki/Class_action)** - is a type of lawsuit where one of the parties is a 
+group of people who are represented 
+collectively by a member of that group. 
+
+**[Discovery](https://en.wikipedia.org/wiki/Discovery_(law))** - is a pre-trial procedure in a lawsuit, in which each 
+party can obtain evidence from the other party 
+by means of discovery devices such as a request for answers to interrogatories, request for production of documents, 
+request for admissions and depositions.
+
+**[Punitive damages](https://en.wikipedia.org/wiki/Punitive_damages)** - damages exceeding simple compensation and 
+awarded to punish the defendant.
+
+The **[American rule](https://en.wikipedia.org/wiki/American_rule_(attorney%27s_fees))** provides that each party is 
+responsible for paying its own attorney's fees. It contrasts with the English rule, under which the losing party 
+pays the prevailing party's attorneys' fees.
 
 
 ## Resources
