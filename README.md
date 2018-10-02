@@ -50,12 +50,12 @@ Don't ask somebody else what they want (what's their position), instead ask why 
 
 Spectrum of dispute resolution processes:
 
-1. Avoidance
-1. Negotiation
-1. Mediation
-1. Arbitration
-1. Litigation
-1. Power
+1. **Avoidance**
+1. **Negotiation**
+1. **Mediation**
+1. **Arbitration**
+1. **Litigation**
+1. **Power**
 
 These processes can be looked at through different lenses:
 
@@ -65,7 +65,21 @@ These processes can be looked at through different lenses:
 
 - **Power**, **Rights** (Litigation, Arbitration), **Interests** (Mediation, Negotiation).
     
-### 1.4 Complete a negotiation analysis, including: setting a reservation price and stretch goal, identifying alternatives to a deal, and finding the zone of potential agreement
+### 1.4 Complete a negotiation analysis
+
+**Reservation price** - the least favourable point (e.g. lowest price for seller) at which one will accept a 
+negotiated agreement. There is a risk in choosing a too large stretch goal - you may lose credibility.
+
+**Stretch goal** - the most favourable point (e.g. highest price for seller) that one can justify in an
+agreement.
+
+**Expected price** - most likely price. 
+
+**Best Alternative To a Negotiated Agreement (BATNA)** - the most advantageous alternative course of action a party 
+can take if negotiations fail and an agreement cannot be reached.
+
+**Zone Of Potential Agreement (ZOPA)** - where the deal can take place, 
+the range between reservation prices of the counterparties. 
     
 ### 1.5 Conduct cross-cultural negotiations
     
