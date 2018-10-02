@@ -115,6 +115,15 @@ members learn about your actions), Golder Rule (treat others as you want to be t
     
 ### 1.7 Decide if you should use an agent in a negotiation
 
+- Is the agent a better negotiator?
+- Does the agent have more experience in negotiating the issues?
+- Does the negotiation involve a technical matter that requires the expertise of an agent?
+- How much time do I have to invest in a negotiation?
+- What is my rerelationship with the other side?
+
+When you are dealing with an agent you have to ask if the agent has the **authority** from the principal to do the deal.
+E.g. general managers have no authority to guarantee loans made by employees. 
+
 
 ## Distinctive features of US litigation system
 
