@@ -41,6 +41,29 @@ Don't ask somebody else what they want (what's their position), instead ask why 
 | Claiming Value | Creating Value |
  
 ### 1.3 Decide if a negotiation is dispute-resolution or deal-making
+
+| **Deal making** | **Dispute resolution** |
+| --- | --- |
+| Forward Looking | Backward Looking |
+| Competitive | Position-based |
+| Problem Solving | Adversarial |
+
+Spectrum of dispute resolution processes:
+
+1. Avoidance
+1. Negotiation
+1. Mediation
+1. Arbitration
+1. Litigation
+1. Power
+
+These processes can be looked at through different lenses:
+
+- **Alternative Dispute Resolution (ADR)**: Negotiation, Mediation, Arbitration.
+
+- **Third Party Processes**: Mediation, Arbitration, Litigation.
+
+- **Power**, **Rights** (Litigation, Arbitration), **Interests** (Mediation, Negotiation).
     
 ### 1.4 Complete a negotiation analysis, including: setting a reservation price and stretch goal, identifying alternatives to a deal, and finding the zone of potential agreement
     
