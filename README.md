@@ -3,6 +3,8 @@
 ### Table of Contents
 
 - [Negotiation Process](#negotiation-process)
+  - [Prepare](#prepare)
+  - [Negotiate](#negotiate)
 - [Resources](#resources)
 
 ## Negotiation Process
@@ -146,6 +148,49 @@ awarded to punish the defendant.
 The **[American rule](https://en.wikipedia.org/wiki/American_rule_(attorney%27s_fees))** provides that each party is 
 responsible for paying its own attorney's fees. It contrasts with the English rule, under which the losing party 
 pays the prevailing party's attorneys' fees.
+
+## Negotiate
+
+### 2.1 Get to know the other side
+
+- Avoid your favorite topic - or else you'll probably talk too much.
+- Ask a lot of questions. People love to talk about themselves and often will think you are a great conversationalist
+if you talk about them.
+- Listening is crucial. Dan Naian has learned to summarize what the other person says. ("So you think that..."
+or "So what you are saying is...") "A conversation can go on indefinitely if you do this" he says.
+
+### 2.2 Understand your power
+
+**Information** is the main source of power in a negotiation - ask questions and listen carefully to the answers.
+
+Knowing **your BATNA** and **the other side's BATNA** gives you power in a negotiation.
+- Improve your BATNA - improve your power. 
+  - Develop alternatives. You would never do a deal without talking to anyone else.
+  - Tell your BATNA to the other side if it's strong.
+- Weaken their BATNA - weaken their power. 
+  - Tell the other side if their BATNA is weak.
+  
+Forming a **coalition** is another powerful form of negitation.
+
+### 2.3 Use psychological tools and avoid traps
+
+1. **Mythical Fixed Pie Assumption**: we assume that our interests are in direct conflict with the interests of the other
+side.
+  - Reactive devaluation: during negotiation, because we think of the other side as a competitor we tend to react to
+  their proposals by devaluing them. When you fall into this trap you lose the opportunity to consider what might be
+  a great proposal that satisfies your interests.
+2. **Anchoring**: we anchor on an initial value when estimating the value of uncertain objects.
+3. **Overconfidence**: we are overconfident that our judgements are correct. 
+  - When making decision try to be realistic. When implementing ideas you can be optimistic.
+4. **Framing**: the way that options are framed cause us to be risk averse (if positive frame) or
+risk seeking (if negative frame).
+5. **Availability**: we are influenced by information that is most easily available. 
+6. **Escalation**: the most successful negotiators look at negotiations from the perspective of the other side.
+7. **Reciprocation**: we feel the need to replay what someone has given us.  
+
+
+
+
 
 
 ## Resources
