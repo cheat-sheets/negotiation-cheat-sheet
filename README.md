@@ -5,6 +5,7 @@
 - [Negotiation Process](#negotiation-process)
   - [Prepare](#prepare)
   - [Negotiate](#negotiate)
+  - [Close: Create Contract](#close-create-contract)
 - [Resources](#resources)
 
 ## Negotiation Process
@@ -188,9 +189,55 @@ risk seeking (if negative frame).
 6. **Escalation**: the most successful negotiators look at negotiations from the perspective of the other side.
 7. **Reciprocation**: we feel the need to replay what someone has given us.  
 
+## Close: Create Contract
 
+### 3.1. Perspectives on Contracts
 
+A **contract** is an agreement enforceable by law.
 
+**Global perspective**: a system of contract law is fundamental for enforcing the right of all individuals to hold,
+buy and sell property.
+
+**Business perspective**: obtaining a contract is the primary goal of a business entity. This is when value creation
+happens.
+
+**Personal perspective**: in the world of contracts you as the writer control the script and produce the play.
+
+### 3.2 Sources of contract law: two variables
+
+**First variable**: type of legal system:
+ - **Civil Law** (code) - normally contracts are shorter
+ - **Common Law** (Precedence) - normally contracts are longer
+ 
+**Second variable**: type of contract:
+ - Services - Common/Civil Law
+ - Real Property - Common/Civil Law
+ - Products (Goods) - Uniform Law: US Uniform Commercial Code; UN convention on contracts for the international Sale of
+ Goods.
+ 
+### 3.3. Key elements in creating contracts
+
+1. Is there an agreement? 
+ - If you make a counter offer then the initial offer is invalidated.
+ - **Framework agreement** is an agreement between two parties that recognizes that the parties have not come to a 
+ final agreement on all matters relevant to the relationship between them, but have come to agreement on enough matters 
+ to move forward with the relationship, with further details to be agreed to in the future. Examples of framework
+ agreement documents:
+   - Memorandum of Understanding
+   - Letter of Intent
+   - Agreement in Principle
+   - Memorandum of Agreement 
+1. Is there consideration?
+ - For deal to be binding both sides have to give up something. E.g. contract for giving a gift is not enforceable.
+1. Is the agreement legal?
+ - E.g. non-compete agreement between a company an an employee: employee can't work for a competitor for a certain
+ amount of time. Is this agreement enforceable? It depends. The court will decide if the agreement is too broad, 
+ in terms of geographical area or in terms of interests involved. Generally these agreements are legal, but if they are
+ crafted too broadly they are not legal.
+1. Must the deal be in writing?
+ - Parol Evidence Rule: the court will only count what's in the final written agreement, and ignore all prior written
+ or verbal negotiations.
+ - Real estate agreements must be in writing
 
 
 ## Resources
