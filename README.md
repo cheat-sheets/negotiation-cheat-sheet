@@ -22,7 +22,10 @@
     - [3.2](#32-sources-of-contract-law-two-variables) Sources of contract law: two variables
     - [3.3](#33-key-elements-in-creating-contracts) Key elements in creating contracts
   - [Perform and Evaluate](#perform-and-evaluate)
-    - [4.1](#31-perspectives-on-contracts) Dispute prevention
+    - [4.1](#41-dispute-prevention) Dispute prevention
+    - [4.2](#42-adr-concepts) ADR Concepts
+    - [4.3](#43-adr-tools) ADR Tools
+    - [4.4](#44-contract-performance-review-and-evaluation) Contract Performance Review and Evaluation
 - [Resources](#resources)
 
 ## Negotiation Process
