@@ -4,8 +4,24 @@
 
 - [Negotiation Process](#negotiation-process)
   - [Prepare](#prepare)
+    - [1.1](#11-decide-if-you-should-negotiate-at-all) Decide if you should negotiate at all
+    - [1.2](#12-decide-if-a-negotiation-is-position-based-or-interest-based) Decide if a negotiation is position-based 
+    or interest-based
+    - [1.3](#13-decide-if-a-negotiation-is-dispute-resolution-or-deal-making) Decide if a negotiation is 
+    dispute-resolution or deal-making
+    - [1.4](#14-complete-a-negotiation-analysis) Complete a negotiation analysis
+    - [1.5](#15-conduct-cross-cultural-negotiations) Conduct cross-cultural negotiations
+    - [1.6](#16-resolve-ethical-issues-in-negotiations) Resolve ethical issues in negotiations
+    - [1.7](#17-decide-if-you-should-use-an-agent-in-a-negotiation) Decide if you should use an agent in a negotiation
   - [Negotiate](#negotiate)
+    - [2.1](#21-get-to-know-the-other-side) Get to know the other side
+    - [2.2](#22-understand-your-power) Understand your power
+    - [2.3](#23-use-psychological-tools-and-avoid-traps) Use psychological tools and avoid traps
   - [Close: Create Contract](#close-create-contract)
+    - [3.1](#31-perspectives-on-contracts) Perspectives on Contracts
+    - [3.2](#32-sources-of-contract-law-two-variables) Sources of contract law: two variables
+    - [3.3](#33-key-elements-in-creating-contracts) Key elements in creating contracts
+  - [Perform and Evaluate](#perform-and-evaluate)
 - [Resources](#resources)
 
 ## Negotiation Process
@@ -191,7 +207,7 @@ risk seeking (if negative frame).
 
 ## Close: Create Contract
 
-### 3.1. Perspectives on Contracts
+### 3.1 Perspectives on Contracts
 
 A **contract** is an agreement enforceable by law.
 
@@ -215,7 +231,7 @@ happens.
  - Products (Goods) - Uniform Law: US Uniform Commercial Code; UN convention on contracts for the international Sale of
  Goods.
  
-### 3.3. Key elements in creating contracts
+### 3.3 Key elements in creating contracts
 
 1. Is there an agreement? 
  - If you make a counter offer then the initial offer is invalidated.
@@ -238,6 +254,16 @@ happens.
  - Parol Evidence Rule: the court will only count what's in the final written agreement, and ignore all prior written
  or verbal negotiations.
  - Real estate agreements must be in writing
+
+## Perform and Evaluate
+
+### 4.1 Dispute prevention
+
+The first principle of **preventive law** is that it is often more important to predict what people will do than
+to predict what a court will do... Winning a lawsuit can be ruinous.
+
+### 4.2 ADR Concepts
+
 
 
 ## Resources
