@@ -22,6 +22,7 @@
     - [3.2](#32-sources-of-contract-law-two-variables) Sources of contract law: two variables
     - [3.3](#33-key-elements-in-creating-contracts) Key elements in creating contracts
   - [Perform and Evaluate](#perform-and-evaluate)
+    - [4.1](#31-perspectives-on-contracts) Dispute prevention
 - [Resources](#resources)
 
 ## Negotiation Process
@@ -264,7 +265,54 @@ to predict what a court will do... Winning a lawsuit can be ruinous.
 
 ### 4.2 ADR Concepts
 
+**Alternative Dispute Resolution (ADR)** methods, such as Mediation and Arbitration,
+ offer many advantages comparing to litigation:
+- Reduced cost
+- Faster resolution
+- Privacy
+- Less adversity in effect
 
+A **mini-trial** is an alternative method for resolving a legal dispute from a formal court trial. 
+A mini-trial is really not a trial at all. Rather, it is a settlement process in which the parties present highly 
+summarized versions of their respective cases to a panel of officials who represent each party 
+(plus a "neutral" official) and who have authority to settle the dispute. 
+The presentation generally takes place outside of the courtroom, in a private forum. 
+After the parties have presented their best case, the panel convenes and tries to settle the matter.
+
+Private judging is an approach that stands as a midway between arbitration and litigation in terms of 
+formality and control of the parties. In private judging the parties present their case to a judge in a 
+privately maintained courtroom with all the appurtenances of the formal judicial process. 
+Judges who sit for private judging are mainly retired or former public judges who are having subject matter expertise. 
+This approach is gaining popularity in commercial situations because disputes can be concluded much quicker 
+than under the traditional court system. It is also called as **rent-a-judge**.
+
+Mediation and Arbitration can be used not only for dispute resolution but also for deal making.
+
+### 4.3 ADR Tools
+
+**Corporate Pledge** is a pledge that companies can adopt as a matter of corporate policy. It instructs companies to 
+use negotiation or ADR techniques for dispute resolution before pursuing full-scale litigation. It helps avoid the 
+reactive devaluation trap when one of the sides proposes to resolve the dispute with negotiation or ADRs. The proposal
+will not be devalued by the other side with the Corporate Pledge.
+
+**Screens** is a list of questions that help to choose whether to use negotiation, mediation, arbitration or litigation.
+
+**Contract Clauses** which states to use one of ADRs in case of dispute.
+
+**Online Dispute Resolution**
+
+### 4.4 Contract Performance Review and Evaluation
+
+Assessment questions:
+
+- Established a relationship?
+- Searched for underlying interests?
+- Asked questions and listened to the answers?
+- Found out whether the other side had authority?
+- Used an effective "first price" strategy?
+- Looked at negotiation from the other side?
+- Used reciprocity when trading interests?
+- Kept a big picture perspective?
 
 ## Resources
 
