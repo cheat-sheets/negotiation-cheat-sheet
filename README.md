@@ -49,7 +49,7 @@ Don't ask somebody else what they want (what's their position), instead ask why 
 
 *Example*: Dividing an anchovies pizza:
  - Position-based: one person cuts the pizza in half, the other person chooses the piece.
- - Interest-based: ask both sides why they want the pizze - it's possible one party wants the pizza because he likes 
+ - Interest-based: ask both sides why they want the pizza - it's possible one party wants the pizza because he likes 
  anchovies (wants the center but not crust), and the other party wants the crust. By identifying interests a win-win 
  situation is created - parties got what they want without taking away what the other party wants.
  
